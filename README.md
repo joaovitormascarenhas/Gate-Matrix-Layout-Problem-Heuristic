@@ -1,6 +1,6 @@
 #Heuristic for the GMLP
 A heuristic method for the Gate Matrix Layout Problem (GMLP) - A program with practical application in the microelectronics industry.
-This algorithm is part of my reseach project developed between 2014-2015.
+This algorithm is part of my reseach project developed between 2014-2015. The article can be accessed at my ResearchGate profile: https://www.researchgate.net/profile/Joao_Vitor_Mascarenhas. 
 
     --> Compile with g++.
     --> Input: A .txt file with the number of lines and columns followed by a binary matrix. 
